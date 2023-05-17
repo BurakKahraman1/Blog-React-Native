@@ -64,7 +64,7 @@ const Home = ({ navigation }) => {
           <Text> 1{"  "}</Text>
         </Pressable>
         <Pressable onPress={() => setPage(2)}>
-          <Text>2 </Text>
+          <Text>2  </Text>
         </Pressable>
         <Pressable onPress={() => setPage(3)}>
           <Text>3 </Text>
